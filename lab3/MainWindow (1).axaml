@@ -1,0 +1,43 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="lab3.MainWindow"
+        Title="lab3">
+        
+    <Grid RowDefinitions="Auto, *, Auto">
+        <StackPanel 
+            Grid.Row="0" 
+            Orientation="Horizontal">
+            <TextBox 
+                x:Name="Search"/>
+            <Button 
+                x:Name="ButtonSearch" 
+                Content="Search"
+                Click="ButtonOnClick"/>
+        </StackPanel>
+
+        <Grid   
+            Grid.Row="1" 
+            ColumnDefinitions="*, 4*">
+            <StackPanel 
+                x:Name="ButtonsContainer"
+                Orientation="Vertical"
+                Grid.Column="0">
+            </StackPanel>
+
+            <StackPanel
+                x:Name="ReadContainer"
+                Orientation="Vertical"
+                Grid.Column="1">
+            </StackPanel>
+        </Grid>
+
+        <StackPanel
+            Grid.Row="2"
+            Orientation="Horizontal"
+            x:Name="StatusPanel">
+        </StackPanel>
+    </Grid>
+</Window>
