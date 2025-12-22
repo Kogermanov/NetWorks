@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stuba\\source\\repos\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35C78CED-B2F6-40A9-B09E-5DEE17A7A2C0}|Snake\\Snake.csproj|C:\\Users\\stuba\\source\\repos\\Snake\\snake\\model\\server\\servernetworkinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C78CED-B2F6-40A9-B09E-5DEE17A7A2C0}|Snake\\Snake.csproj|solutionrelative:snake\\model\\server\\servernetworkinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C78CED-B2F6-40A9-B09E-5DEE17A7A2C0}|Snake\\Snake.csproj|C:\\Users\\stuba\\source\\repos\\Snake\\snake\\view\\snakeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C78CED-B2F6-40A9-B09E-5DEE17A7A2C0}|Snake\\Snake.csproj|solutionrelative:snake\\view\\snakeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C78CED-B2F6-40A9-B09E-5DEE17A7A2C0}|Snake\\Snake.csproj|C:\\Users\\stuba\\source\\repos\\Snake\\snake\\model\\server\\gamemodelofserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C78CED-B2F6-40A9-B09E-5DEE17A7A2C0}|Snake\\Snake.csproj|solutionrelative:snake\\model\\server\\gamemodelofserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C78CED-B2F6-40A9-B09E-5DEE17A7A2C0}|Snake\\Snake.csproj|c:\\users\\stuba\\source\\repos\\snake\\snake\\model\\recipientofannouncements\\announcementreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C78CED-B2F6-40A9-B09E-5DEE17A7A2C0}|Snake\\Snake.csproj|solutionrelative:snake\\model\\recipientofannouncements\\announcementreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C78CED-B2F6-40A9-B09E-5DEE17A7A2C0}|Snake\\Snake.csproj|C:\\Users\\stuba\\source\\repos\\Snake\\snake\\model\\recipientofannouncements\\addressandportstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C78CED-B2F6-40A9-B09E-5DEE17A7A2C0}|Snake\\Snake.csproj|solutionrelative:snake\\model\\recipientofannouncements\\addressandportstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C78CED-B2F6-40A9-B09E-5DEE17A7A2C0}|Snake\\Snake.csproj|C:\\Users\\stuba\\source\\repos\\Snake\\snake\\model\\client\\gamemodelofclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C78CED-B2F6-40A9-B09E-5DEE17A7A2C0}|Snake\\Snake.csproj|solutionrelative:snake\\model\\client\\gamemodelofclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C78CED-B2F6-40A9-B09E-5DEE17A7A2C0}|Snake\\Snake.csproj|C:\\Users\\stuba\\source\\repos\\Snake\\snake\\presenter\\gamepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C78CED-B2F6-40A9-B09E-5DEE17A7A2C0}|Snake\\Snake.csproj|solutionrelative:snake\\presenter\\gamepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 164,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnnouncementReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\stuba\\source\\repos\\Snake\\Snake\\Model\\RecipientOfAnnouncements\\AnnouncementReceiver.cs",
+              "RelativeDocumentMoniker": "Snake\\Model\\RecipientOfAnnouncements\\AnnouncementReceiver.cs",
+              "ToolTip": "C:\\Users\\stuba\\source\\repos\\Snake\\Snake\\Model\\RecipientOfAnnouncements\\AnnouncementReceiver.cs",
+              "RelativeToolTip": "Snake\\Model\\RecipientOfAnnouncements\\AnnouncementReceiver.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:28:30.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameModelOfServer.cs",
+              "DocumentMoniker": "C:\\Users\\stuba\\source\\repos\\Snake\\Snake\\Model\\Server\\GameModelOfServer.cs",
+              "RelativeDocumentMoniker": "Snake\\Model\\Server\\GameModelOfServer.cs",
+              "ToolTip": "C:\\Users\\stuba\\source\\repos\\Snake\\Snake\\Model\\Server\\GameModelOfServer.cs",
+              "RelativeToolTip": "Snake\\Model\\Server\\GameModelOfServer.cs",
+              "ViewState": "AgIAAMUBAAAAAAAAAAAAAN0BAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:23:06.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SnakeForm.cs",
+              "DocumentMoniker": "C:\\Users\\stuba\\source\\repos\\Snake\\Snake\\View\\SnakeForm.cs",
+              "RelativeDocumentMoniker": "Snake\\View\\SnakeForm.cs",
+              "ToolTip": "C:\\Users\\stuba\\source\\repos\\Snake\\Snake\\View\\SnakeForm.cs",
+              "RelativeToolTip": "Snake\\View\\SnakeForm.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAwwOsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:37:56.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServerNetworkInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\stuba\\source\\repos\\Snake\\Snake\\Model\\Server\\ServerNetworkInteraction.cs",
+              "RelativeDocumentMoniker": "Snake\\Model\\Server\\ServerNetworkInteraction.cs",
+              "ToolTip": "C:\\Users\\stuba\\source\\repos\\Snake\\Snake\\Model\\Server\\ServerNetworkInteraction.cs",
+              "RelativeToolTip": "Snake\\Model\\Server\\ServerNetworkInteraction.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAuwDoBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:28:04.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameModelOfClient.cs",
+              "DocumentMoniker": "C:\\Users\\stuba\\source\\repos\\Snake\\Snake\\Model\\Client\\GameModelOfClient.cs",
+              "RelativeDocumentMoniker": "Snake\\Model\\Client\\GameModelOfClient.cs",
+              "ToolTip": "C:\\Users\\stuba\\source\\repos\\Snake\\Snake\\Model\\Client\\GameModelOfClient.cs",
+              "RelativeToolTip": "Snake\\Model\\Client\\GameModelOfClient.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:31:39.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddressAndPortStorage.cs",
+              "DocumentMoniker": "C:\\Users\\stuba\\source\\repos\\Snake\\Snake\\Model\\RecipientOfAnnouncements\\AddressAndPortStorage.cs",
+              "RelativeDocumentMoniker": "Snake\\Model\\RecipientOfAnnouncements\\AddressAndPortStorage.cs",
+              "ToolTip": "C:\\Users\\stuba\\source\\repos\\Snake\\Snake\\Model\\RecipientOfAnnouncements\\AddressAndPortStorage.cs",
+              "RelativeToolTip": "Snake\\Model\\RecipientOfAnnouncements\\AddressAndPortStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:22:54.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GamePresenter.cs",
+              "DocumentMoniker": "C:\\Users\\stuba\\source\\repos\\Snake\\Snake\\Presenter\\GamePresenter.cs",
+              "RelativeDocumentMoniker": "Snake\\Presenter\\GamePresenter.cs",
+              "ToolTip": "C:\\Users\\stuba\\source\\repos\\Snake\\Snake\\Presenter\\GamePresenter.cs",
+              "RelativeToolTip": "Snake\\Presenter\\GamePresenter.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAHMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:53:24.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
